@@ -4,10 +4,23 @@
 	color: $white
 	height: auto
 	clear: both
+	@media (max-width: $ipad)
+		padding: 30px 25px
+
+	h1
+		@media (max-width: $ipad)
+			font:
+				size: 2em
 
 	p
+		line-height: $line-height
 		width: 75%
 		float: left
+		@media (max-width: $ipad)
+			width: 100%
+			font:
+				size: 1em
+
 
 	#ticket_button
 		float: right
@@ -20,6 +33,19 @@
 		font:
 			size: 1.2em
 			weight: 500
+
+		@media (max-width: $ipad)
+			margin-top: 10px
+			margin-bottom: 10px
+			background: none
+			color: $red
+			float: none
+			width: 100%
+			padding: 25px 40px
+			background: $white
+			font:
+				size: 1.5em
+				weight: 300
 
 		&:hover
 			background: $white

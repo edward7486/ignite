@@ -1,14 +1,21 @@
 header
 	margin-top: 0
-	height: 650px
+	height: 600px
+	width: 100%
 	background: url(/assets/img/bgcover.jpg)
 	background-size: cover
 	background-repeat: none
+	@media (max-width: $ipad)
+		height: 400px
+		background-position: center
 
 	.logo
 		margin: 15px 0px 0px 100px
-		width: auto
+		width: 13%
 		float: left
+		@media (max-width: $ipad)
+			margin: 30px
+			width: 30%
 
 		&:hover
 			cursor: pointer
@@ -17,14 +24,42 @@ header
 		margin: 35px 100px 0px 0px
 		float: right
 
+		#hamburger
+			text-decoration: none
+			color: $white
+			position: absolute
+			top: 20px
+			right: 10%
+			font:
+				size: 2.5em
+				weight: bold
+
+			&:hover
+				cursor: pointer
+
 		ul.nav
 			margin-top: 0
+			@media (max-width: $ipad)
+				background-color: $red
+				position: absolute
+				height: 100%
+				width: 65%
+				padding: 0px 30px
+				top: 0
+				right: -100%
+				z-index: 100
+				display: none
 
 			li
 				display: inline-block
 				margin-left: 80px
-				font:
-					size: 1.1em
+				text-align: center
+				@media (max-width: $ipad)
+					margin: 0
+					display: block
+					line-height: 2em
+					font:
+						size: 1.5em
 
 				a
 					text-decoration: none
@@ -33,15 +68,34 @@ header
 
 					&:hover
 						color: $red
+						@media (max-width: $ipad)
+							color: $white
+
+			#close
+				font-size: 2em
+				margin: 0
+				color: $white
+				padding: 20px 0
+
+				&:hover
+					cursor: pointer
+
+		ul.nav.open
+			right: 0
+			display: block
 
 	.hero_text
-		padding: 50px 0px 0px 250px
+		padding: 100px 0px 0px 250px
 		margin: 0
 		line-height: 1.4em
 		color: $white
 		clear: both
 		font:
 			size: 3.5em
+		@media (max-width: $ipad)
+			font:
+				size: 2em
+			padding: 10px 50px 
 
 	.register
 		margin: 40px 0px 0px 250px
@@ -51,9 +105,19 @@ header
 		color: $red
 		font:
 			size: 1.2em
+		@media (max-width: $ipad)
+			margin: 5px 
 
 		&:hover
 			background: $red
 			color: $white
 			cursor: pointer
+
+
+
+
+
+
+
+
 
