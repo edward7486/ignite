@@ -1,4 +1,4 @@
-This project is a rebranding of Ignite Seattle (http://www.igniteseattle.com). I used HTML/CSS + Sass, JavaScript, jQuery, and used the wonderful Codekit for development and Sass compiling. This project is desktop and mobile-friendly. Enjoy!
+This project is a rebranding of Ignite Seattle (http://www.igniteseattle.com). I used HTML/CSS + Sass, JavaScript, jQuery, and used the wonderful Codekit for development and Sass compiling. This project is desktop and mobile-friendly and was done for the course HCDE 508: Visual Communication at the University of Washington.
 
 <h4>Inspiration:</h4>
 I used inspiration from TED (obviously), and went for bold messaging, and made the black/red/white color palette more prominent. 
