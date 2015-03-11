@@ -35,13 +35,17 @@ $(document).ready(function(){
 	$("#hamburger").on("click", function(){
 
 		$('header nav ul').addClass( 'open' );
+		$('body').bind( 'touchmove', function(e){ e.preventDefault() });
 
 	});
 
 	$("#close").on("click", function(){
 
 		$('header nav ul').removeClass( 'open' );
+		$('body').unbind( 'touchmove' );
 
 	});
+
+	// Search //
 
 });
