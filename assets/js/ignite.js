@@ -3,11 +3,11 @@ $(document).ready(function(){
 	// Moving Register Button in Header based on Window Width //
 	if ( $(window).width() <= 1024 ) {
 		
-		$("button.register").remove().prependTo(".container");
+		$(".register").remove().prependTo(".container");
 
 	} else if ( $(window).width() >= 1024 ) {
 
-		$("button.register").remove().appendTo("header");
+		$(".register").remove().appendTo("header");
 	
 	}
 

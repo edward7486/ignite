@@ -23,6 +23,9 @@ header
 		&:hover
 			cursor: pointer
 
+		img
+			width: 90%
+
 	nav
 		margin: 35px 100px 0px 0px
 		float: right
@@ -100,7 +103,7 @@ header
 		@media (max-width: $ipad)
 			font:
 				size: 2em
-			padding: 50px 40px
+			padding: 30px 40px
 
 	.hero_subtitle
 		font:
@@ -115,14 +118,16 @@ header
 				size: 1.5em
 			padding: 0px 50px
 
-	.register
+	a.register
+		display: inline-block
 		margin: 40px 0px 0px 200px
-		padding: 15px 40px
-		border: 4px solid $red
+		padding: 19px 44px
 		background: $red
 		color: $white
 		font:
 			size: 1.2em
+			weight: 700
+		text-decoration: none
 		@media (max-width: $ipad)
 			margin: 5px 
 
