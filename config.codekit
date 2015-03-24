@@ -93,6 +93,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/bgcover2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 793744,
+		"inputAbbreviatedPath": "\/assets\/img\/bgcover2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/bgcover2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/bgcover3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 875191,
+		"inputAbbreviatedPath": "\/assets\/img\/bgcover3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/bgcover3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -106,6 +128,31 @@
 		},
 	"\/assets\/img\/logo2.png": {
 		"fileType": 32768,
+<<<<<<< HEAD
+=======
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21261,
+		"inputAbbreviatedPath": "\/assets\/img\/logo2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video-thumb\/tarah.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7119,
+		"inputAbbreviatedPath": "\/assets\/img\/video-thumb\/tarah.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video-thumb\/tarah.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/ignite.js": {
+		"fileType": 64,
+>>>>>>> Hero-Slider
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 21261,
