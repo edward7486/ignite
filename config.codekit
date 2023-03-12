@@ -194,6 +194,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/video-thumb\/talk2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4074,
+		"inputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video-thumb\/talk3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7615,
+		"inputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video-thumb\/talk4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5183,
+		"inputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk4.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video-thumb\/talk5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8069,
+		"inputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk5.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video-thumb\/talk6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7795,
+		"inputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk6.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video-thumb\/talk6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/video-thumb\/tarah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2179,7 +2234,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqeq": {
